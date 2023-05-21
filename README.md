@@ -8,6 +8,6 @@ Isaac: Zalen.py, Vertonging.py,
 
 Mohammed: Films.py, Gebruikers.py
 
-Moaad: ??
+Moaad: Vertonging.py
 
 !! Zorg dat uw datastructuren op Ingenious (Ingenious -> GAS) geimplementeerd zijn !!

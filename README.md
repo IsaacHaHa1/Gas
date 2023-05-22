@@ -4,7 +4,7 @@ Verdeling contracten:
 
 Maxim: Reservaties.py, ReservatieSysteem.py
 
-Isaac: Zalen.py, Vertonging.py,
+Isaac: Zalen.py
 
 Mohammed: Films.py, Gebruikers.py
 

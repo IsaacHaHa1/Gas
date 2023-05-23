@@ -2,6 +2,7 @@
 class Zalen:
     def __init__(self):
         self.container = []
+        self
 
     def nieuwe_zaal(self, zaalnummer, aantal_plaatsen):
         """

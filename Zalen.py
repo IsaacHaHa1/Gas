@@ -2,7 +2,9 @@
 class Zalen:
     def __init__(self):
         self.container = []
-        self
+        self.zaalnummer = 
+        self.aantal_plaatsen = 
+        
 
     def nieuwe_zaal(self, zaalnummer, aantal_plaatsen):
         """
@@ -12,12 +14,12 @@ class Zalen:
             (x) Er bestaat nog geen Zaal met param:zaalnummer in de Zalen datastructuur
 
         postconditie : 
-            (x) de nieuwe Zaal zit in de Zalen datastructuur 
+            (x) de nieuwe Zaal zit in de Zalen datastructuur
 
         : param zaalnummer : type int
         : param aantal_plaatsen : type int
 
-        : return : succes bool
+        : return : succes bool 
 
         """
         pass
@@ -28,7 +30,7 @@ class Zaal:
     #Data
     def __init__(self, zaalnummer, aantal_plaatsen):
         """
-        Zaal constructor, maakt nieuwe Zaal  aan
+        Zaal constructor, maakt nieuwe Zaal  aan 
 
         preconditie : 
             (x) param:zaalnummer is van type int, param:aantal_plaatsen is van type int
